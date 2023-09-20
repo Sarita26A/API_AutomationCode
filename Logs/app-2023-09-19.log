@@ -1,0 +1,9 @@
+[INFO ] 2023-09-19 12:00:41.044 [main] UserTest - ********Creating User ********
+[INFO ] 2023-09-19 12:00:41.143 [main] UserTest - ********User is created ********
+[INFO ] 2023-09-19 12:00:41.158 [main] UserTest - ********Reading User Info ********
+[INFO ] 2023-09-19 12:31:44.493 [main] UserTest2 - ********Creating User ********
+[INFO ] 2023-09-19 12:31:44.582 [main] UserTest2 - ********User is created ********
+[INFO ] 2023-09-19 12:31:44.602 [main] UserTest2 - ********Reading User Info ********
+[INFO ] 2023-09-19 12:39:14.395 [main] UserTest2 - ********Creating User ********
+[INFO ] 2023-09-19 12:39:14.487 [main] UserTest2 - ********User is created ********
+[INFO ] 2023-09-19 12:39:14.510 [main] UserTest2 - ********Reading User Info ********
